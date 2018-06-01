@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-06-01T07:15:42.500Z</updated>
+  <updated>2018-06-01T07:41:57.518Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2018/06/01/Children&#39;s%20Day/"/>
     <id>http://yoursite.com/2018/06/01/Children&#39;s Day/</id>
     <published>2018-06-01T02:42:55.964Z</published>
-    <updated>2018-06-01T07:15:42.500Z</updated>
+    <updated>2018-06-01T07:41:57.518Z</updated>
     
     <content type="html"><![CDATA[<p>Happy children’s Day!</p>]]></content>
     
@@ -36,7 +36,7 @@
     </summary>
     
     
-      <category term="����" scheme="http://yoursite.com/tags/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/"/>
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
