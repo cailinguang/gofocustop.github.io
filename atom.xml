@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-06-01T07:41:57.518Z</updated>
+  <updated>2018-06-03T07:59:33.776Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>无问西东</title>
+    <link href="http://yoursite.com/2018/06/03/%E6%97%A0%E9%97%AE%E8%A5%BF%E4%B8%9C/"/>
+    <id>http://yoursite.com/2018/06/03/无问西东/</id>
+    <published>2018-06-03T07:57:33.905Z</published>
+    <updated>2018-06-03T07:59:33.776Z</updated>
+    
+    <content type="html"><![CDATA[<p>这个世界</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这个世界&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="电影" scheme="http://yoursite.com/tags/%E7%94%B5%E5%BD%B1/"/>
+    
+  </entry>
   
   <entry>
     <title>Children&#39;s Day</title>
