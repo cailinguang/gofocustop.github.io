@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title></title>
+  <title>gofocus.top</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://gofocus.top/"/>
   <updated>2018-06-03T07:59:33.776Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://gofocus.top/</id>
   
   <author>
     <name>gofocus.top</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>无问西东</title>
-    <link href="http://yoursite.com/2018/06/03/%E6%97%A0%E9%97%AE%E8%A5%BF%E4%B8%9C/"/>
-    <id>http://yoursite.com/2018/06/03/无问西东/</id>
+    <link href="https://gofocus.top/2018/06/03/%E6%97%A0%E9%97%AE%E8%A5%BF%E4%B8%9C/"/>
+    <id>https://gofocus.top/2018/06/03/无问西东/</id>
     <published>2018-06-03T07:57:33.905Z</published>
     <updated>2018-06-03T07:59:33.776Z</updated>
     
@@ -36,14 +36,14 @@
     </summary>
     
     
-      <category term="电影" scheme="http://yoursite.com/tags/%E7%94%B5%E5%BD%B1/"/>
+      <category term="电影" scheme="https://gofocus.top/tags/%E7%94%B5%E5%BD%B1/"/>
     
   </entry>
   
   <entry>
     <title>Children&#39;s Day</title>
-    <link href="http://yoursite.com/2018/06/01/Children&#39;s%20Day/"/>
-    <id>http://yoursite.com/2018/06/01/Children&#39;s Day/</id>
+    <link href="https://gofocus.top/2018/06/01/Children&#39;s%20Day/"/>
+    <id>https://gofocus.top/2018/06/01/Children&#39;s Day/</id>
     <published>2018-06-01T02:42:55.964Z</published>
     <updated>2018-06-01T07:41:57.518Z</updated>
     
@@ -60,7 +60,7 @@
     </summary>
     
     
-      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="https://gofocus.top/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
